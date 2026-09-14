@@ -1,0 +1,11 @@
+.venv/
+.quarto/
+_site/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+/.quarto/
+**/*.quarto_ipynb

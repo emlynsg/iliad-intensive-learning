@@ -1,0 +1,15 @@
+---
+title: "C.2: Mechanistic Interpretability"
+---
+
+[Official worksheet](https://iliad-intensive.org/interpretability/mechanistic-interpretability/) · [Course document](https://docs.google.com/document/d/1ZI_JIg_-CeMZpZKxlh8TdmVmn6CK3UIbIz_Wl-g9U8o/edit?tab=t.alpz10jgotvn) · [Local source](../iliad-intensive/tex/mechanistic-interpretability/main.mdx) (may contain solutions) · [Additional course repository](https://github.com/iliad-team/iliad-intensive-C.2)
+
+## Notes
+
+<!-- Definitions and assumptions in your own words. -->
+
+## Attempts and proofs
+
+<!-- Add the exercise number, your attempt, and LaTeX mathematics here. -->
+
+## Questions to revisit

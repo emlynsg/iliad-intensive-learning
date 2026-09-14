@@ -1,0 +1,3 @@
+[submodule "iliad-intensive"]
+	path = iliad-intensive
+	url = https://github.com/iliad-team/iliad-intensive.git

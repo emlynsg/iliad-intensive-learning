@@ -1,0 +1,15 @@
+---
+title: "D.2: Policy Gradients and Misgeneralization"
+---
+
+[Official worksheet](https://iliad-intensive.org/agency/policy-gradients-misgeneralization/) · [Course document](https://docs.google.com/document/d/1ZI_JIg_-CeMZpZKxlh8TdmVmn6CK3UIbIz_Wl-g9U8o/edit?tab=t.hu1actdm586n) · [Local source](../iliad-intensive/tex/policy-gradients-misgeneralization/main.mdx) (may contain solutions)
+
+## Notes
+
+<!-- Definitions and assumptions in your own words. -->
+
+## Attempts and proofs
+
+<!-- Add the exercise number, your attempt, and LaTeX mathematics here. -->
+
+## Questions to revisit

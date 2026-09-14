@@ -1,0 +1,15 @@
+---
+title: "E.3: Worst-Case Interpretability"
+---
+
+[Course document](https://docs.google.com/document/d/1ZI_JIg_-CeMZpZKxlh8TdmVmn6CK3UIbIz_Wl-g9U8o/edit?tab=t.rgyi2yd35qb9) · [Additional course repository](https://github.com/LouisYRYJ/Proof_based_approach_tutorial) · [Slides](https://drive.google.com/file/d/1CqJtSUFLZ_L-kSsSzvSJGXfuf1Lbq5Un/view)
+
+## Notes
+
+<!-- Definitions and assumptions in your own words. -->
+
+## Attempts and proofs
+
+<!-- Add the exercise number, your attempt, and LaTeX mathematics here. -->
+
+## Questions to revisit

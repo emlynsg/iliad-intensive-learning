@@ -1,0 +1,7 @@
+{
+  "folders": [{"path": "."}],
+  "settings": {
+    "python.defaultInterpreterPath": "/home/emlyn/.venvs/iliad/bin/python"
+  },
+  "extensions": {"recommendations": ["quarto.quarto", "ms-python.python"]}
+}

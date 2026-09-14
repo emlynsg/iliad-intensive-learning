@@ -1,0 +1,15 @@
+---
+title: "A.4: Reward Learning Theory"
+---
+
+[Official worksheet](https://iliad-intensive.org/alignment/reward-learning-theory/) · [Course document](https://docs.google.com/document/d/1ZI_JIg_-CeMZpZKxlh8TdmVmn6CK3UIbIz_Wl-g9U8o/edit?tab=t.6d2zm6vpa5tg) · [Local source](../iliad-intensive/tex/reward-learning-theory/main.tex) (may contain solutions)
+
+## Notes
+
+<!-- Definitions and assumptions in your own words. -->
+
+## Attempts and proofs
+
+<!-- Add the exercise number, your attempt, and LaTeX mathematics here. -->
+
+## Questions to revisit

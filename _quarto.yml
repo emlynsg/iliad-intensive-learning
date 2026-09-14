@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - worksheets/*.qmd
+  resources:
+    - iliad-intensive/schedule.yaml
+    - iliad-intensive/tex/*/main.tex
+    - iliad-intensive/tex/*/main.mdx
+website:
+  title: Iliad learning
+  navbar:
+    left:
+      - href: index.qmd
+        text: Worksheets
+format:
+  html:
+    toc: true
+    html-math-method: mathml
+    embed-resources: true
+execute:
+  enabled: false

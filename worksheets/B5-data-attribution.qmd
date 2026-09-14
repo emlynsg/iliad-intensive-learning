@@ -1,0 +1,15 @@
+---
+title: "B.5: Data Attribution"
+---
+
+[Official worksheet](https://iliad-intensive.org/learning/data-attribution/) · [Course document](https://docs.google.com/document/d/1ZI_JIg_-CeMZpZKxlh8TdmVmn6CK3UIbIz_Wl-g9U8o/edit?tab=t.agn5xl6zra7l) · [Local source](../iliad-intensive/tex/data-attribution/main.tex) (may contain solutions) · [Additional course repository](https://github.com/LouisYRYJ/illiad_data_attribution)
+
+## Notes
+
+<!-- Definitions and assumptions in your own words. -->
+
+## Attempts and proofs
+
+<!-- Add the exercise number, your attempt, and LaTeX mathematics here. -->
+
+## Questions to revisit

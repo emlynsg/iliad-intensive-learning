@@ -1,0 +1,15 @@
+---
+title: "A.2: Alignment in Practice"
+---
+
+[Official worksheet](https://iliad-intensive.org/alignment/alignment-in-practice/) · [Course document](https://docs.google.com/document/d/1ZI_JIg_-CeMZpZKxlh8TdmVmn6CK3UIbIz_Wl-g9U8o/edit?tab=t.i1ocmcfi54i2) · [Local source](../iliad-intensive/tex/alignment-in-practice/main.mdx) (may contain solutions)
+
+## Notes
+
+<!-- Definitions and assumptions in your own words. -->
+
+## Attempts and proofs
+
+<!-- Add the exercise number, your attempt, and LaTeX mathematics here. -->
+
+## Questions to revisit

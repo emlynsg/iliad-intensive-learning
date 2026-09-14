@@ -1,0 +1,15 @@
+---
+title: "A.1: AI Alignment Introduction"
+---
+
+[Official worksheet](https://iliad-intensive.org/alignment/ai-alignment-intro/) · [Course document](https://docs.google.com/document/d/1ZI_JIg_-CeMZpZKxlh8TdmVmn6CK3UIbIz_Wl-g9U8o/edit?tab=t.ozdc2do4wrbw) · [Local source](../iliad-intensive/tex/ai-alignment-intro/main.mdx) (may contain solutions)
+
+## Notes
+
+<!-- Definitions and assumptions in your own words. -->
+
+## Attempts and proofs
+
+<!-- Add the exercise number, your attempt, and LaTeX mathematics here. -->
+
+## Questions to revisit

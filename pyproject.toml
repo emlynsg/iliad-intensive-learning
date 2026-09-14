@@ -1,0 +1,9 @@
+[project]
+name = "iliad-learning"
+version = "0.1.0"
+description = "Personal Iliad worksheet notes and symbolic derivation checks"
+requires-python = ">=3.11,<3.12"
+dependencies = ["sympy>=1.14,<2", "mpmath>=1.3,<2", "pyyaml>=6,<7"]
+
+[tool.uv]
+package = false

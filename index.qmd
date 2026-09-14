@@ -1,0 +1,171 @@
+---
+title: "Iliad worksheets"
+---
+
+Follow the course materials in order and write your attempts in the linked notes pages. These are blank working pages; the official worksheets remain the source of the questions.
+
+Start with **Foundations: Prerequisites**, then **A.1: AI Alignment Introduction**.
+
+Math rendering check (works offline): $\sum_{k=1}^n k = \frac{n(n+1)}{2}$.
+
+Schedule: [local source](iliad-intensive/schedule.yaml), commit `c0317e71c634`. [Live curriculum](https://iliad-intensive.org/) · [Material availability](https://iliad-intensive.org/admin/status/)
+
+
+## Foundations
+
+
+### 0: Prerequisites
+
+- [ ] [0: Prerequisites — my notes](worksheets/0-prerequisites.qmd)
+
+
+## A — Alignment
+
+
+### A.1: AI Alignment Introduction
+
+- [ ] [A.1: AI Alignment Introduction — my notes](worksheets/A1-ai-alignment-intro.qmd)
+
+
+### A.2: Alignment in Practice
+
+- [ ] [A.2: Alignment in Practice — my notes](worksheets/A2-alignment-in-practice.qmd)
+
+
+### A.3: Alignment in Practice 2
+
+This day has no worksheet in this checkout; use its course document.
+
+- [ ] [A.3: Alignment in Practice 2 — my notes](worksheets/A3-notes.qmd)
+
+
+### A.4: Reward Learning Theory
+
+- [ ] [A.4: Reward Learning Theory — my notes](worksheets/A4-reward-learning-theory.qmd)
+
+
+## B — Learning
+
+
+### B.2: Mysteries of Deep Learning
+
+- [ ] [B.2: Mysteries of Deep Learning — my notes](worksheets/B2-mysteries-of-deep-learning.qmd)
+
+
+### B.3: Singular Learning Theory
+
+- [ ] [B.3: Singular Learning Theory — my notes](worksheets/B3-singular-learning-theory.qmd)
+
+
+### B.4: Training Dynamics
+
+- [ ] [B.4: Training Dynamics — my notes](worksheets/B4-training-dynamics.qmd)
+
+
+### B.5: Data Attribution
+
+- [ ] [B.5: Data Attribution — my notes](worksheets/B5-data-attribution.qmd)
+
+
+### B.6: Physics of Learning
+
+This day has no worksheet in this checkout; use its course document.
+
+- [ ] [B.6: Physics of Learning — my notes](worksheets/B6-notes.qmd)
+
+
+## C — Abstractions, Representations, and Interpretability
+
+
+### C.1: Intro to ML Engineering
+
+- [ ] [C.1: Intro to ML Engineering — my notes](worksheets/C1-intro-to-ml-engineering.qmd)
+
+
+### C.2: Mechanistic Interpretability
+
+- [ ] [C.2: Mechanistic Interpretability — my notes](worksheets/C2-mechanistic-interpretability.qmd)
+
+
+### C.3: Computational Mechanics
+
+This day has no worksheet in this checkout; use its course document.
+
+- [ ] [C.3: Computational Mechanics — my notes](worksheets/C3-notes.qmd)
+
+
+### C.4: Abstractions and Latents
+
+This day has no worksheet in this checkout; use its course document.
+
+- [ ] [C.4: Abstractions and Latents — my notes](worksheets/C4-notes.qmd)
+
+
+## D — Agency
+
+
+### D.1: Decision Theory and Reinforcement Learning
+
+- [ ] [D.1: Decision Theory and Reinforcement Learning — Preferences To Rewards — my notes](worksheets/D1-preferences-to-rewards.qmd)
+
+- [ ] [D.1: Decision Theory and Reinforcement Learning — Reinforcement Learning — my notes](worksheets/D1-reinforcement-learning.qmd)
+
+
+### D.2: Policy Gradients and Misgeneralization
+
+- [ ] [D.2: Policy Gradients and Misgeneralization — my notes](worksheets/D2-policy-gradients-misgeneralization.qmd)
+
+
+### D.3: AIXI
+
+- [ ] [D.3: AIXI — Solomonoff Induction — my notes](worksheets/D3-solomonoff-induction.qmd)
+
+- [ ] [D.3: AIXI — Aixi — my notes](worksheets/D3-aixi.qmd)
+
+
+### D.4: Agent Foundations
+
+- [ ] [D.4: Agent Foundations — Agent Foundations — my notes](worksheets/D4-agent-foundations.qmd)
+
+- [ ] [D.4: Agent Foundations — Optimization Thermodynamics — my notes](worksheets/D4-optimization-thermodynamics.qmd)
+
+
+### D.5: Decision Theory
+
+- [ ] [D.5: Decision Theory — Decision Theory — my notes](worksheets/D5-decision-theory.qmd)
+
+- [ ] [D.5: Decision Theory — Open Source Game Theory — my notes](worksheets/D5-open-source-game-theory.qmd)
+
+
+### D.6: Instrumental Convergence
+
+- [ ] [D.6: Instrumental Convergence — my notes](worksheets/D6-power-seeking.qmd)
+
+
+### D.7: World Models
+
+This day has no worksheet in this checkout; use its course document.
+
+- [ ] [D.7: World Models — my notes](worksheets/D7-notes.qmd)
+
+
+## E — Safety Guarantees and their Limits
+
+
+### E.1: Debate
+
+This day has no worksheet in this checkout; use its course document.
+
+- [ ] [E.1: Debate — my notes](worksheets/E1-notes.qmd)
+
+
+### E.2: Steganography & Backdoors
+
+- [ ] [E.2: Steganography & Backdoors — my notes](worksheets/E2-steganography.qmd)
+
+
+### E.3: Worst-Case Interpretability
+
+This day has no worksheet in this checkout; use its course document.
+
+- [ ] [E.3: Worst-Case Interpretability — my notes](worksheets/E3-notes.qmd)

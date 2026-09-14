@@ -1,0 +1,15 @@
+---
+title: "C.3: Computational Mechanics"
+---
+
+[Course document](https://docs.google.com/document/d/1ZI_JIg_-CeMZpZKxlh8TdmVmn6CK3UIbIz_Wl-g9U8o/edit?tab=t.649vumndszu5) · [Additional course repository](https://github.com/14xp/iliad-comp-mech-materials)
+
+## Notes
+
+<!-- Definitions and assumptions in your own words. -->
+
+## Attempts and proofs
+
+<!-- Add the exercise number, your attempt, and LaTeX mathematics here. -->
+
+## Questions to revisit
