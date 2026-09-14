@@ -48,8 +48,8 @@ integration or paid API setup was added.
 
 ## GitHub and course updates
 
-Your learning workspace is stored in the private repository
-`emlynsg/iliad-learning`, with `origin` pointing to your GitHub. Personal notes,
+Your learning workspace is stored in
+`emlynsg/iliad-intensive-learning`, with `origin` pointing to your GitHub. Personal notes,
 the schedule index, configuration and the Python lockfile are tracked. The
 rendered `_site/`, caches and Python environment are generated locally.
 
@@ -61,12 +61,13 @@ The current local course clone also has an `upstream` remote for that official U
 To restore on another machine:
 
 ```bash
-git clone --recurse-submodules https://github.com/emlynsg/iliad-learning.git
+git clone --recurse-submodules https://github.com/emlynsg/iliad-intensive-learning.git iliad-learning
 ```
 
 Git LFS is needed for the course figures. Then configure the local tools and run
 `just env` and `just render`. The VS Code launch settings currently target this
-laptop's WSL paths.
+laptop's WSL paths. The explicit `iliad-learning` destination preserves the local
+folder name used by those launch settings after the GitHub repository rename.
 
 To save your notes from the learning workspace:
 
